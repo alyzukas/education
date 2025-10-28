@@ -80,6 +80,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Tools/libraries used: pandas, NumPy, matplotlib.pyplot
-- Tutorials or papers referenced: Class 2 + 3 modules
+- Tools/libraries used:
+    -  pandas
+    -  NumPy
+    - matplotlib.pyplot
+    - seaborns grid modeling
+    - statsmodels.formula.api
+    - statsmodels.api
+- Tutorials or papers referenced: DATA 5100 Class modules
 - Inspiration or collaborators: Dr Fischer
