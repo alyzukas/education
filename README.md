@@ -13,7 +13,7 @@
 
 - **Draft Problem Statement:** Is school performance associated with socioeconomic factors?
 
-- **Final Problem Statement:** Does school geoassignment have a large effect on school performance?
+- **Final Problem Statement:** Does school geoassignment have a strong effect on school performance?
 
 ---
 
