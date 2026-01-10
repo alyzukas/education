@@ -8,7 +8,7 @@
 
 **Introduction:** This project addresses inequality of educational opportunity in U.S. high schools. Here we will focus on average student performance on the ACT or SAT exams that students take as part of the college application process. <br>
 
-- **Objective:** The main goal of this project is to apply the data science methodology to analyze the relationship between `student performance on the ACT or SAT exams` and `socioecomoic factors`. <br>
+- **Objective:** The main goal of this project is to apply the data science methodology to analyze the relationship between `student performance on the ACT or SAT exams` and `socioeconomic factors`. <br>
 
 
 - **Draft Problem Statement:** Is school performance associated with socioeconomic factors?
